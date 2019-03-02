@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\Camp\Camp\bin\Debug\Camp.exe.config
+C:\Users\Owner\source\repos\Camp\Camp\bin\Debug\Camp.exe
+C:\Users\Owner\source\repos\Camp\Camp\bin\Debug\Camp.pdb
+C:\Users\Owner\source\repos\Camp\Camp\obj\Debug\Camp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Camp\Camp\obj\Debug\Camp.exe
+C:\Users\Owner\source\repos\Camp\Camp\obj\Debug\Camp.pdb
+C:\Users\Owner\source\repos\Camp\Camp\obj\Debug\Camp.csprojAssemblyReference.cache
